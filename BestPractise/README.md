@@ -14,7 +14,7 @@
 
 * **[后台作业指南][BackgroundJobsGuidance]**详述了实现与前台操作完全独立的后台任务实现的最佳实现。
 
-* **[内容分发网络指南][CDNGuidance]**是一个综述性指南，告诉你如何使用[内容分发网络（CDN）][CDNWiki]最小化应用服务器负载，同时最大化应用可用性及性能。
+* **[内容分发网络指南][CDNGuidance]**是一个综述性指南，告诉你如何使用内容分发网络（CDN）最小化应用服务器负载，同时最大化应用可用性及性能。
 
 * **[缓存指南][CacheGuidance]**总结了如何使用Azure的缓存来提高系统的可用性与扩展能力。
 
@@ -32,4 +32,16 @@
 
 
 [AzureOriginDoc]: https://github.com/dragon119/azure-guidance
+
+[APIDesignGuidance]: #
+[APIImplementationGuidance]: #
+[AutoscalingGuidance]: #
+[BackgroundJobsGuidance]: #
+[CDNGuidance]: #
+[CacheGuidance]: #
+[DataPartitionGuidance]: #
+[MoniteringAndDiagnosticsGuidance]: #
+[RetryGeneralGuidance]: #
+[RetryServiceSpecificGuidance]: #
+[ScalabilityChecklist]: #
 [AvailabilityChecklist]: AvailabilityChecklist.md
