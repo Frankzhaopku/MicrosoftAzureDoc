@@ -33,7 +33,7 @@
 
 [AzureOriginDoc]: https://github.com/dragon119/azure-guidance
 
-[APIDesignGuidance]: #
+[APIDesignGuidance]: APIDesign.md
 [APIImplementationGuidance]: #
 [AutoscalingGuidance]: #
 [BackgroundJobsGuidance]: #
